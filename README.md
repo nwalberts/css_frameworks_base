@@ -9,3 +9,6 @@ CSS frameworks:
 - help with mobile-friendly layouts
 
 Note: The original version of this repo was created by cmkoller. I have developed this code base so that students and I can have a basic and completed version to work with.
+
+CSS
+https://imgur.com/gallery/Q3cUg29
