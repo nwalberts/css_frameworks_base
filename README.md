@@ -82,21 +82,7 @@ Check out the [docs](http://foundation.zurb.com/sites/docs/grid.html) for more u
 - **[Callouts](http://foundation.zurb.com/sites/docs/callout.html)** make pretty colored boxes to help visually organize content on your site.
 - **[Tables](http://foundation.zurb.com/sites/docs/table.html):** Foundation makes them beautifulll.
 - **[Pretty nav bars](http://foundation.zurb.com/sites/docs/navigation.html):** See the [templates page](http://foundation.zurb.com/templates.html) for more pretty nav ideas!
-
-## Extras!
-
-#### Setting up your layout file
-I like to have my website content centered with some space on each side, and Foundation makes that super easy! Inside the `body` tag of every layout.erb file, I wrap the `<%= yield %>` with some `divs` with Foundation classes:
-
-```html
-<div class="container">
-  <div class="row">
-    <div class="column">
-      <%= yield %>
-    </div>
-  </div>
-</div>
-```
+- **[Utility Classes](https://foundation.zurb.com/sites/docs/v/5.5.3/utility-classes.html)
 
 #### Using JS-based features
 Some things, like [alert boxes](http://foundation.zurb.com/sites/docs/callout.html#making-closable), you need to install Foundation's Javascript files in order to use. Here's how:
